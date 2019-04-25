@@ -6,6 +6,8 @@ StoryMaster是一款制作文字冒险、恋爱、养成、视觉互动小说等
 
 ## DEMO 访问地址
 
+第一次观看，因为要动态加载图片声音等资源，可能会影响阅读体验：
+
 http://tidys.github.io/StoryMaster/build/web-mobile/index.html
 
 
