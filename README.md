@@ -8,6 +8,4 @@ StoryMaster是一款制作文字冒险、恋爱、养成、视觉互动小说等
 
 http://tidys.github.io/StoryMaster/build/web-mobile/index.html
 
-## 产品定位
-快速打造自己的故事
 
