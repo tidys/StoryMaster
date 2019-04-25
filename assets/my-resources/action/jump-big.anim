@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jump-big",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -215,
+            -96
+          ],
+          "motionPath": [
+            [
+              -124,
+              4,
+              -193,
+              -34,
+              -77,
+              30
+            ]
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            26,
+            36
+          ],
+          "motionPath": [
+            [
+              127,
+              20,
+              80,
+              41,
+              172,
+              -7
+            ]
+          ]
+        },
+        {
+          "frame": 0.7666666666666667,
+          "value": [
+            195,
+            -64
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}
