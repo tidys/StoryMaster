@@ -4,10 +4,14 @@ StoryMaster是一款制作文字冒险、恋爱、养成、视觉互动小说等
 
 具体的文档请访问：[文档](https://tidys.github.io/plugin-docs-oneself/docs/story-master/)
 
-## DEMO 访问地址
+## DEMO
+
+该DEMO是基于creator2.0.5进行制作的, 如果使用其他creator版本,不保证完美适配,可能存在一些未知使用问题
 
 第一次观看，因为要动态加载图片声音等资源，可能会影响阅读体验：
 
 http://tidys.github.io/StoryMaster/build/web-mobile/index.html
+
+`欢迎在插件基础上进行二次开发迭代, 有遇到任何问题, 欢迎骚扰, QQ774177933`
 
 
