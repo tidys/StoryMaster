@@ -11,8 +11,8 @@ StoryMaster是一款制作文字冒险、恋爱、养成、视觉互动小说等
 ## DEMO
 
 第一次观看，因为要动态加载图片声音等资源，可能会影响阅读体验：
-- [GitHub-Demo](http://tidys.github.io/StoryMaster/build/web-mobile/index.html)
-- [Gitee-Demo 国内访问速度更快](http://tidys.gitee.io/story-master-plugin-demo/build/web-mobile/)
+- [GitHub-Demo(推荐，需要翻墙)](http://tidys.github.io/StoryMaster/build/web-mobile/index.html)
+- [Gitee-Demo 国内访问速度更快，(打开可能黑屏，因为gitee的净网行动等不确定因素)](http://tidys.gitee.io/story-master-plugin-demo/build/web-mobile/)
 
 
 
